@@ -1,0 +1,10 @@
+{
+  "domain": "dingtalk_bot",
+  "name": "DingTalk Bot",
+  "documentation": "https://www.home-assistant.io",
+  "dependencies": [],
+  "codeowners": [],
+  "requirements": [],
+  "version": "1.0.0",
+  "iot_class": "cloud_push"
+}

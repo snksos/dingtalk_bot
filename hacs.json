@@ -1,0 +1,6 @@
+{
+    "name": "dingtalk_bot",
+    "render_readme": true,
+    "country": "CN",
+    "homeassistant": "2024.12.5"
+}
